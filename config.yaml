@@ -1,0 +1,10 @@
+path: C:\Users\DELL\OneDrive\Desktop\SlashKey\data
+
+train: images\train
+
+val: images\train
+
+
+names : 
+  0: 'Diseased' 
+  1: 'Not Diseased'
